@@ -18,5 +18,11 @@
       "name": "Ldf",
       "url": "https://portal-as.ruijienetworks.com/api/auth/wifidog?stage=portal&gw_id=c4b25be7d6f2&gw_sn=H1U320P004056&gw_address=192.168.110.2&gw_port=2060&ip=192.168.110.41&mac=a4:cc:b3:f2:b2:98&slot_num=13&nasip=192.168.1.190&ssid=VLAN233&ustate=0&mac_req=1&url=http%3A%2F%2F192.168.0.1%2F&chap_id=%5C371&chap_challenge=%5C070%5C317%5C327%5C351%5C201%5C311%5C244%5C025%5C063%5C103%5C035%5C013%5C142%5C012%5C024%5C026&v=2"
     }
+  ],
+  "-1004373530404": [
+    {
+      "name": "Hkk-net",
+      "url": "https://portal-mm-as.ruijienetworks.com/api/auth/wifidog?stage=portal&gw_id=c8cd5580a9b6&gw_sn=H1T0934003440&gw_address=10.0.0.1&gw_port=2060&ip=10.0.3.76&mac=14:49:d4:7f:81:45&slot_num=22&nasip=192.168.1.46&ssid=VLAN233&ustate=0&mac_req=1&url=http%3A%2F%2Fconnectivitycheck%2Egstatic%2Ecom%2Fgenerate%5F204&chap_id=%5C055&chap_challenge=%5C015%5C325%5C056%5C140%5C325%5C057%5C272%5C335%5C045%5C112%5C276%5C350%5C354%5C273%5C247%5C156&v=2"
+    }
   ]
 }
