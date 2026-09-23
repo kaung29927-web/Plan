@@ -4,5 +4,11 @@
       "name": "SBP",
       "url": "https://portal-as.ruijienetworks.com/api/auth/wifidog?stage=portal&gw_id=984a6b961430&gw_sn=H1T71LW004436&gw_address=192.168.60.1&gw_port=2060&ip=192.168.60.94&mac=e6:75:2d:ee:f3:be&slot_num=14&nasip=192.168.1.79&ssid=VLAN60&ustate=0&mac_req=1&url=http%3A%2F%2F192.168.0.1%2F&chap_id=%5C336&chap_challenge=%5C366%5C367%5C374%5C312%5C256%5C032%5C366%5C157%5C157%5C327%5C007%5C122%5C270%5C026%5C026%5C246"
     }
+  ],
+  "5771569702": [
+    {
+      "name": "YYT",
+      "url": "https://portal-as.ruijienetworks.com/api/auth/wifidog?stage=portal&gw_id=d8332a6875a0&gw_sn=H1V11UK00937A&gw_address=192.168.110.1&gw_port=2060&ip=192.168.110.250&mac=a4:cc:b3:f2:b2:98&slot_num=16&nasip=192.168.1.235&ssid=VLAN233&ustate=0&mac_req=1&url=http%3A%2F%2F192.168.0.1%2F&chap_id=%5C013&chap_challenge=%5C375%5C352%5C371%5C004%5C156%5C103%5C147%5C335%5C232%5C145%5C230%5C000%5C161%5C232%5C257%5C010"
+    }
   ]
 }
