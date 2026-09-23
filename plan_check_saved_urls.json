@@ -1,3 +1,8 @@
 {
-  "8244514938": []
+  "8244514938": [
+    {
+      "name": "SBP",
+      "url": "https://portal-as.ruijienetworks.com/api/auth/wifidog?stage=portal&gw_id=984a6b961430&gw_sn=H1T71LW004436&gw_address=192.168.60.1&gw_port=2060&ip=192.168.60.94&mac=e6:75:2d:ee:f3:be&slot_num=14&nasip=192.168.1.79&ssid=VLAN60&ustate=0&mac_req=1&url=http%3A%2F%2F192.168.0.1%2F&chap_id=%5C336&chap_challenge=%5C366%5C367%5C374%5C312%5C256%5C032%5C366%5C157%5C157%5C327%5C007%5C122%5C270%5C026%5C026%5C246"
+    }
+  ]
 }
