@@ -41,6 +41,10 @@
     {
       "name": "Kyaw",
       "url": "https://portal-as.ruijienetworks.com/api/auth/wifidog?stage=portal&gw_id=984a6ba4c085&gw_sn=H1TB01V01202B&gw_address=192.168.110.1&gw_port=2060&ip=192.168.110.237&mac=42:a6:22:1a:2a:de&slot_num=16&nasip=192.168.1.95&ssid=VLAN233&ustate=0&mac_req=1&url=http%3A%2F%2Fconnectivitycheck%2Egstatic%2Ecom%2Fgenerate%5F204&chap_id=%5C037&chap_challenge=%5C077%5C173%5C341%5C357%5C306%5C370%5C057%5C244%5C027%5C146%5C042%5C211%5C257%5C004%5C056%5C123"
+    },
+    {
+      "name": "TUN",
+      "url": "https://portal-mm-as.ruijienetworks.com/api/auth/wifidog?stage=portal&gw_id=c8cd5548d148&gw_sn=H1T0773006119&gw_address=192.168.10.1&gw_port=2060&ip=192.168.10.158&mac=3a:ac:e5:14:f2:7c&slot_num=16&nasip=192.168.1.251&ssid=VLAN233&ustate=0&mac_req=1&url=http%3A%2F%2Fconnectivitycheck%2Egstatic%2Ecom%2Fgenerate%5F204&chap_id=%5C320&chap_challenge=%5C037%5C133%5C115%5C073%5C177%5C302%5C212%5C151%5C106%5C275%5C367%5C312%5C276%5C054%5C231%5C345"
     }
   ],
   "8901431673": [
