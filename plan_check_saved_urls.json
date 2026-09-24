@@ -7,6 +7,10 @@
     {
       "name": "Hkk-net",
       "url": "https://portal-mm-as.ruijienetworks.com/api/auth/wifidog?stage=portal&gw_id=c8cd5580a9b6&gw_sn=H1T0934003440&gw_address=10.0.0.1&gw_port=2060&ip=10.0.3.76&mac=14:49:d4:7f:81:45&slot_num=22&nasip=192.168.1.46&ssid=VLAN233&ustate=0&mac_req=1&url=http%3A%2F%2Fconnectivitycheck%2Egstatic%2Ecom%2Fgenerate%5F204&chap_id=%5C055&chap_challenge=%5C015%5C325%5C056%5C140%5C325%5C057%5C272%5C335%5C045%5C112%5C276%5C350%5C354%5C273%5C247%5C156&v=2"
+    },
+    {
+      "name": "Test",
+      "url": "https://portal-as.ruijienetworks.com/api/auth/wifidog?stage=portal&gw_id=e05d54a03dfc&gw_sn=H1T037Z004944&gw_address=192.168.110.1&gw_port=2060&ip=192.168.110.10&mac=cc:eb:5e:78:c7:42&slot_num=8&nasip=192.168.1.152&ssid=VLAN233&ustate=0&mac_req=1&url=http%3A%2F%2Fconnectivitycheck%2Egstatic%2Ecom%2Fgenerate%5F204&chap_id=%5C020&chap_challenge=%5C336%5C244%5C142%5C213%5C375%5C347%5C237%5C055%5C173%5C331%5C035%5C306%5C372%5C227%5C003%5C011"
     }
   ],
   "5771569702": [
