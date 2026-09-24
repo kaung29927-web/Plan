@@ -43,6 +43,10 @@
     {
       "name": "Reo",
       "url": "https://portal-as.ruijienetworks.com/api/auth/wifidog?stage=portal&gw_id=c4b25bec922a&gw_sn=H1U408R003017&gw_address=192.168.77.1&gw_port=2060&ip=192.168.77.83&mac=96:22:1f:31:33:9b&slot_num=17&nasip=192.168.1.145&ssid=VLAN77&ustate=0&mac_req=1&url=http%3A%2F%2Fconnectivitycheck%2Egstatic%2Ecom%2Fgenerate%5F204&chap_id=%5C266&chap_challenge=%5C101%5C242%5C025%5C122%5C212%5C070%5C100%5C124%5C155%5C172%5C213%5C317%5C121%5C217%5C153%5C274&v=2 Reo"
+    },
+    {
+      "name": "Ryan",
+      "url": "https://portal-mm-as.ruijienetworks.com/api/auth/wifidog?stage=portal&gw_id=70856c8303d2&gw_sn=H1UC3CB002046&gw_address=192.168.19.1&gw_port=2060&ip=192.168.19.37&mac=12:b7:a2:5e:8e:fc&slot_num=19&nasip=192.168.1.159&ssid=VLAN19&ustate=0&mac_req=1&url=http%3A%2F%2Fconnectivitycheck%2Egstatic%2Ecom%2Fgenerate%5F204&chap_id=%5C013&chap_challenge=%5C072%5C176%5C064%5C305%5C102%5C033%5C305%5C337%5C352%5C113%5C013%5C005%5C054%5C354%5C243%5C114&v=2"
     }
   ]
 }
